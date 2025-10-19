@@ -34,7 +34,8 @@
         "dbaeumer.vscode-eslint",
         "esbenp.prettier-vscode",
         "redhat.vscode-yaml",
-        "ms-vscode.azurecli"
+        "ms-vscode.azurecli",
+        "vscjava.migrate-java-to-azure"
       ],
       "settings": {
         "java.home": "/usr/local/sdkman/candidates/java/8.0.462-tem",
